@@ -14,6 +14,7 @@ public class BancoDigital {
     public static void main(String[] args) {
         contaBancaria = new ArrayList<Conta>();
         telaInicial();
+        sc.close();
 
     }
 
